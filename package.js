@@ -1,0 +1,9 @@
+extension["舟舟杀"]={
+	intro:"",
+	author:"俺杀",
+	netdisk:"",
+	forum:"",
+	version:"0.3.1",
+	files:["ark_kafuka.jpg","ark_sikadi.jpg","ark_shanling.jpg","赫拉格.jpg","extension.js"],
+	size:"11.3MB"
+};
